@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener('DOMContentLoaded', function () {
     const navbar = document.querySelector('.navbar');
     const navItems = document.querySelectorAll('.nav-item a');
